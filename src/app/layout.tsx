@@ -41,5 +41,4 @@ export default function RootLayout({
   );
 }
 
-// Enable edge runtime but you are required to disable the `migrate` function in `src/libs/DB.ts`
 // export const runtime = 'edge';

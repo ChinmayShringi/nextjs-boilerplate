@@ -1,4 +1,3 @@
-import { UserProfile } from '@clerk/nextjs';
 import type { Metadata } from 'next';
 
 export const metadata: Metadata = {
@@ -9,7 +8,7 @@ export const metadata: Metadata = {
 
 const UserProfilePage = () => (
   <div className="my-6 -ml-16">
-    <UserProfile />
+    <div />
   </div>
 );
 

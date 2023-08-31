@@ -284,15 +284,6 @@ See [LICENSE](LICENSE) for more information.
       </a>
     </td>
   </tr>
-  <tr height="187px">
-    <td>
-      <a href="https://nextlessjs.com">
-        <img src="https://creativedesignsguru.com/assets/images/themes/nextlessjs-github-banner.png" alt="React SaaS Boilerplate Next.js" />
-      </a>
-    </td>
-  </tr>
 </table>
 
 ---
-
-Made with ♥ by [CreativeDesignsGuru](https://creativedesignsguru.com) [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=Follow%20%40Ixartz)](https://twitter.com/ixartz)

@@ -1,4 +1,3 @@
-import { SignIn } from '@clerk/nextjs';
 import type { Metadata } from 'next';
 
 export const metadata: Metadata = {
@@ -7,6 +6,6 @@ export const metadata: Metadata = {
     'Effortlessly create an account through our intuitive sign-up process.',
 };
 
-const SignInPage = () => <SignIn />;
+const SignInPage = () => <div />;
 
 export default SignInPage;
